@@ -27,9 +27,7 @@ export default function Home() {
             <p><strong>Ora:</strong> 18:00</p>
           </div>
           <div className="mt-6 text-center">
-            <button className="px-6 py-2 bg-pink-500 text-white rounded-full shadow hover:bg-pink-600 transition">
-              Prezintă biletul
-            </button>
+            <button onClick={() => window.open('https://www.instagram.com/alex.anca_/', '_blank')}> Prezintă biletul </button>
           </div>
         </div>
       </div>
