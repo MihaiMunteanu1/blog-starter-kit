@@ -21,7 +21,7 @@ export default function Home() {
           <p className="text-sm text-gray-500">Valabil pentru o singură intrare</p>
           <hr className="my-4 border-dashed border-t-2 border-gray-300" />
           <div className="text-left text-sm text-gray-700 space-y-1">
-            <p><strong>Nume:</strong> Mihai Munteanu</p>
+            <p><strong>Nume:</strong> Invitatie</p>
             <p><strong>Data:</strong> 9 Iulie 2025</p>
             <p><strong>Locație:</strong> Plaja Costinești</p>
             <p><strong>Ora:</strong> 18:00</p>
