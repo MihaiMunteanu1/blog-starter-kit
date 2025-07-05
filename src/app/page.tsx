@@ -2,8 +2,7 @@
 export default function Home() {
   return (
     <main style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
-      <h1>Bun venit!</h1>
-      <p>Pagina ta folosește App Router (Next.js modern).</p>
+      <h1>Ati castigat PULA!</h1>
     </main>
   );
 }
